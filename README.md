@@ -1,16 +1,20 @@
-# appdatfood
+# FastBite
 
-A new Flutter project.
+A cross-platform mobile application built with Flutter that helps users discover restaurants, browse menus, and order food online.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Browse restaurants & menus
+- Secure authentication
+- Food ordering system
+- Order tracking & history
+- Location-based search
+- User reviews & ratings
+- Favorite restaurants
+- Push notifications
+- Secure payment gateway
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter, Dart, Firebase, Google Cloud, iOS, Android
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
